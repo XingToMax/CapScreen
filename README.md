@@ -52,11 +52,11 @@ void initHotkey() {
 
 使用`ctrl+alt+s`唤醒截屏
 
-![]()
+![](https://github.com/XingToMax/CapScreen/blob/master/images/1.png)
 
 选择标签
 
-![]()
+![](https://github.com/XingToMax/CapScreen/blob/master/images/2.png)
 
 使用`ctrl+alt+q`退出程序
 
