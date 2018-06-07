@@ -9,6 +9,7 @@
 `org.nuaa.tomax.csreen`为本系统业务的代码
 
 ## setting.properties
+
 + savePath
 
 图片保存的根路径
